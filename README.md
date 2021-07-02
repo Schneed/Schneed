@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Schneed
+- 👀 I’m interested in dockers, automation, and in learning as many languages as possible. 
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python and SQL projects.
